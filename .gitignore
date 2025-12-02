@@ -1,0 +1,8 @@
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+*.swp
+.DS_Store
+q[0-9]*
